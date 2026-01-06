@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Amirhossein Mousavi
 
-<img width="1152" height="928" alt="Firefly" src="https://github.com/user-attachments/assets/39a4803f-e10d-4e06-b49b-b0df697e1912" />
+<img width="1152" height="928" alt="Gemini_Generated_Image_r7o1ebr7o1ebr7o1" src="https://github.com/user-attachments/assets/2891423e-000d-4a6f-a403-b3bcd370bcd6" />
 
 ### 🛠 Languages and Tools:
 <p align="left">
