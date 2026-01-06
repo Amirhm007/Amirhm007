@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Amirhossein Mousavi
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirhm007&show_icons=true&theme=radical)
+<img width="1152" height="928" alt="Firefly" src="https://github.com/user-attachments/assets/39a4803f-e10d-4e06-b49b-b0df697e1912" />
+
 ### 🛠 Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
